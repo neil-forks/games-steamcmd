@@ -15,7 +15,7 @@
         "steam_disk_space"
     ],
     "docker_images": {
-        "ghcr.io/parkervcp/steamcmd:sniper": "ghcr.io/parkervcp/steamcmd:sniper"
+        "ghcr.io/pelican-eggs/steamcmd:sniper": "ghcr.io/pelican-eggs/steamcmd:sniper"
     },
     "file_denylist": [],
     "startup_commands": {
